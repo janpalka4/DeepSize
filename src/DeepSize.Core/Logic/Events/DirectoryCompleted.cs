@@ -1,6 +1,3 @@
 namespace DeepSize.Core.Logic.Events;
 
-public class DirectoryCompleted
-{
-    
-}
+public sealed record DirectoryCompleted : ScanEvent;

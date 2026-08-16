@@ -1,6 +1,5 @@
 namespace DeepSize.Core.Model;
 
-public class FileNode
+public class FileNode : Node
 {
-    
 }

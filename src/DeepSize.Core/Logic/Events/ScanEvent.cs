@@ -1,6 +1,3 @@
 namespace DeepSize.Core.Logic.Events;
 
-public class ScanEvent
-{
-    
-}
+public abstract record ScanEvent;

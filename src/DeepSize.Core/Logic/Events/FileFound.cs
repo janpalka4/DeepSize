@@ -1,6 +1,3 @@
 namespace DeepSize.Core.Logic.Events;
 
-public class FileFoundEvent
-{
-    
-}
+public sealed record FileFound(string Path, long Size) : ScanEvent;

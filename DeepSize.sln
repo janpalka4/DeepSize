@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSize.CLI", "src\DeepSize.CLI\DeepSize.CLI.csproj", "{72303C8E-A9D8-4CCE-BCF6-ADBA5E1F3214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSize.Core", "src\DeepSize.Core\DeepSize.Core.csproj", "{1CB21C1C-52F1-49AF-9AB5-55F697564E8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72303C8E-A9D8-4CCE-BCF6-ADBA5E1F3214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72303C8E-A9D8-4CCE-BCF6-ADBA5E1F3214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72303C8E-A9D8-4CCE-BCF6-ADBA5E1F3214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72303C8E-A9D8-4CCE-BCF6-ADBA5E1F3214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB21C1C-52F1-49AF-9AB5-55F697564E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB21C1C-52F1-49AF-9AB5-55F697564E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB21C1C-52F1-49AF-9AB5-55F697564E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB21C1C-52F1-49AF-9AB5-55F697564E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

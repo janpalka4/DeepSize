@@ -1,6 +1,3 @@
 namespace DeepSize.Core.Logic.Events;
 
-public class DirectoryStarted
-{
-    
-}
+public sealed record DirectoryStarted(string Path) : ScanEvent;

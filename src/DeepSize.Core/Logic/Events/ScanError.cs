@@ -1,6 +1,3 @@
 namespace DeepSize.Core.Logic.Events;
 
-public class ScanError
-{
-    
-}
+public sealed record ScanError(string Path, string Message) : ScanEvent;
